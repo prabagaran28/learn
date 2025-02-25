@@ -12,7 +12,10 @@ int main()
 {
 gpio gp;
 gp.a =10;
+gp.b =200;
 printf("%d",gp.a);
-
+gp.b =10;
+printf("%d",gp.b);
+printf("hello   World!");
     return 0;
 }
