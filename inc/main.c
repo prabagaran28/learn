@@ -17,5 +17,6 @@ printf("%d",gp.a);
 gp.b =10;
 printf("%d",gp.b);
 printf("hello   World!");
+printf("I am in newyork!");
     return 0;
 }
